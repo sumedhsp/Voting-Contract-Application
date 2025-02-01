@@ -129,8 +129,8 @@ npx hardhat run scripts/deploy.js --network sepolia
 
 👨‍💻 **Team Members:**
 
-**Anish Nimbalkar** (`an4338@nyu.edu`) 
-**Sumedh Parvatikar** (`sp7479@nyu.edu`)
+- **Anish Nimbalkar** (`an4338@nyu.edu`) 
+- **Sumedh Parvatikar** (`sp7479@nyu.edu`)
 
 ---
 
